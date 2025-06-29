@@ -11,7 +11,7 @@ Each automation is documented with a screenshot and a brief explanation. Scroll 
 
 ---
 
-### 🧴 1. Perfume Inventory Expiry Notifier
+### 🧴 1. Perfume Inventory
 
 **Use Case**: Automatically checks a Google Sheet daily for perfumes nearing expiration and sends email alerts to the business owner.
 
