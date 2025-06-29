@@ -37,11 +37,6 @@ Each automation is documented with a screenshot and a brief explanation. Scroll 
 
 ---
 
-
----
-
----
-
 ## 💡 Tools & Technologies
 
 - **n8n** (core platform)
